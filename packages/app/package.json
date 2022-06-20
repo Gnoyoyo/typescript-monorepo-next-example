@@ -7,9 +7,9 @@
     "start": "next"
   },
   "devDependencies": {
-    "@types/react": "^16.4.10",
-    "@zeit/next-typescript": "^1.1.0",
-    "typescript": "^3.0.1"
+    "@types/react": "16.4.10",
+    "@zeit/next-typescript": "1.1.0",
+    "typescript": "3.0.1"
   },
   "dependencies": {
     "component-a": "*",
