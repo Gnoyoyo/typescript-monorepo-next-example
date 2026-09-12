@@ -7,14 +7,14 @@
     "start": "next"
   },
   "devDependencies": {
-    "@types/react": "^16.4.10",
+    "@types/react": "^19.0.0",
     "@zeit/next-typescript": "^1.1.0",
     "typescript": "^3.0.1"
   },
   "dependencies": {
     "component-a": "*",
     "next": "^6.1.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
